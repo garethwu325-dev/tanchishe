@@ -1,0 +1,5 @@
+initGame: 1
+render: 1
+gameLoop: 1
+restartGame: 1
+updateScore: 1
