@@ -1,0 +1,30 @@
+# Common ignores
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Java
+*.class
+*.jar
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Build
+dist/
+build/
